@@ -9,4 +9,4 @@ There's **no** need for any software or virtual joysticks as it's all controlled
 
 This project is built using Visual Studio 2017 Community and Visual Micro (Arduino extension).
 
-If you only require the arduino sketch, download it from [here](/flysky-ibus-leonardo/flysky-ibus-leonardo/flysky-ibus-leonardo.ino).
+If you only require the arduino sketch, download it from [here](/flysky-ibus-leonardo/flysky-ibus-leonardo.ino).
