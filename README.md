@@ -22,7 +22,7 @@ Channel 5 | Z Axis
 Channel 6 | Z Rotation
 
 Notes:
-* To build and Upload this sketch use the [Joystick](https://github.com/MHeironimus/ArduinoJoystickLibrary) library (version 1.0) by [Matthew Heironimus](https://github.com/MHeironimus).
+* To build and Upload this sketch use the [Joystick](https://github.com/MHeironimus/ArduinoJoystickLibrary) library by [Matthew Heironimus](https://github.com/MHeironimus).
 * Connect the IBus signal wire to pin 10 on the Arduino Leonardo.
 * Uses X-Axis, Y-Axis, Z-Axis, Rx-Axis, Ry-Axis, Rz-Axis (simply [re]calibrate the controller in your sim of choice).
 
