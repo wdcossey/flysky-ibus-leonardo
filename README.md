@@ -29,3 +29,5 @@ Notes:
 ![Game Controllers](/images/win10_game_controllers.png)
 
 ![Sample](/images/win10_sample.gif)
+
+Screen recording by [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
