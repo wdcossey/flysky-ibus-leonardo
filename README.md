@@ -11,8 +11,9 @@ Software:
 * There's **no** need for any special software or virtual joysticks as it's all controlled by the microcontroller.
 
 Notes:
+* To build and Upload this sketch use the [Joystick](https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/version-1.0) library (version 1.0) by [Matthew Heironimus](https://github.com/MHeironimus).
 * Connect the IBus signal wire to pin 10 on the Arduino Leonardo.
-* Uses X-Axis, Y-Axis, Z-Axis, Throttle (simply [re]calibrate the controller in your sim of choice)
+* Uses X-Axis, Y-Axis, Z-Axis, Throttle (simply [re]calibrate the controller in your sim of choice).
 
 This project is built using Visual Studio 2017 Community and Visual Micro (Arduino extension).
 
